@@ -1,0 +1,24 @@
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.csprojAssemblyReference.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.csproj.CoreCompileInputs.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.RazorAssemblyInfo.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.RazorAssemblyInfo.cs
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.AssemblyInfoInputs.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.AssemblyInfo.cs
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.RazorCoreGenerate.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.RazorTargetAssemblyInfo.cache
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.RazorTargetAssemblyInfo.cs
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\BFuentes\Documents\GitHub\NETCore2_2_Angular7_Template\NetCoreAngular2_2\obj\Debug\netcoreapp2.2\NetCoreAngular2_2.csproj.CopyComplete
