@@ -1,5 +1,5 @@
 # ASP.NET Core 2.2 with Angular7 Template
-@angular/cli 7.3.2
+@angular/cli 7.3.4
 
 typescript 3.2.4
 
