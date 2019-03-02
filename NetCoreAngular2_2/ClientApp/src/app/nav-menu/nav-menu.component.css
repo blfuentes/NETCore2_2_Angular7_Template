@@ -3,6 +3,7 @@
   left: 0;
   right: 0;
   z-index: 1;
+  height: 100%;
 }
 .main-nav li a {
   cursor: pointer;
@@ -27,6 +28,7 @@
     border-radius: 0 15px 15px 0;
     border-width: 0px;
     height: 100%;
+    vertical-align: top;
   }
   .main-nav .navbar a {
     width: 100%;
@@ -48,8 +50,5 @@
   }
   .main-nav .navbar-header {
     float: none;
-  }
-  .main-nav .navbar-collapse {
-    padding: 0px;
   }
 }

@@ -1,27 +1,28 @@
 .main-nav {
-  position: fixed;
-  left: 0;
-  right: 0;
-  z-index: 1;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    height: 100%;
 
-  li {
-    a {
-      cursor: pointer;
-      padding: 10px 16px;
-      border-radius: 4px;
-    }
+    li {
+        a {
+            cursor: pointer;
+            padding: 10px 16px;
+            border-radius: 4px;
+        }
 
-    .fa {
-      margin-right: 10px;
-    }
+        .fa {
+            margin-right: 10px;
+        }
 
-    &.link-active a,
-    &.link-active a:hover,
-    &.link-active a:focus {
-      background-color: #4189C7;
-      color: white;
+        &.link-active a,
+        &.link-active a:hover,
+        &.link-active a:focus {
+            background-color: #4189C7;
+            color: white;
+        }
     }
-  }
 }
 
 @media (min-width: 768px) {
@@ -33,6 +34,7 @@
       border-radius: 0 15px 15px 0;
       border-width: 0px;
       height: 100%;
+      vertical-align:top;
 
       a {
         width: 100%;
@@ -59,10 +61,6 @@
 
     .navbar-header {
       float: none;
-    }
-
-    .navbar-collapse {
-      padding: 0px;
     }
   }
 }
