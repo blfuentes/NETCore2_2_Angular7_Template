@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
-    <TypeScriptToolsVersion>3.3</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>3.2</TypeScriptToolsVersion>
     <IsPackable>false</IsPackable>
     <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
@@ -12,7 +12,7 @@
     <BuildServerSideRenderer>false</BuildServerSideRenderer>
     <AssemblyName>ASP.NET Core 2.2 with Angular 7</AssemblyName>
     <RootNamespace>NetCoreAngular2_2</RootNamespace>
-    <Version>1.9.1</Version>
+    <Version>2.0.0</Version>
     <Authors>Bernardo Lloret-Fuentes</Authors>
     <Company>Bernardo Lloret-Fuentes</Company>
     <Product>ASP.NET Core 2.2 with Angular 7 Template</Product>
